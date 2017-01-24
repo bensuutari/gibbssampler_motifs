@@ -4,13 +4,13 @@
 Author: Benjamin Suutari
 
 
-This is a graphical user interface for motif identification
+This is a graphical user interface for motif identification using a Gibbs Sampler
 
 Dependencies: numpy and Tkinter
 
 Input should be in a text file with each sequence separated by a newline \n
 
-You can specify the length of motifs to identify
+You can specify the length of motifs to identify and the number of Markov Chain Monte Carlo simulations to perform (Maximum # Iterations)
 ##The Default Screen With No Parameters Entered
 ![alt text](screenshots/defaultscreen.png "This is the screen you will see on opening")
 ##Results of Running Gibbs Sampler
