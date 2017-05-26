@@ -1,6 +1,5 @@
 ###########################################################
-#Gibbs Sampler GUI for Bioinformatics Motif Identification#
-#                                                         #
+#Gibbs Sampler GUI for Bioinformatics Motif Identification#                                                        
 ###########################################################
 Author: Benjamin Suutari
 
