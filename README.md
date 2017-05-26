@@ -11,7 +11,7 @@ Dependencies: numpy and Tkinter
 Input should be in a text file with each sequence separated by a newline \n
 
 You can specify the length of motifs to identify and the number of Markov Chain Monte Carlo simulations to perform (Maximum # Iterations)
-##The Default Screen With No Parameters Entered
+##	The Default Screen With No Parameters Entered	##
 ![alt text](screenshots/defaultscreen.png "This is the screen you will see on opening")
-##Results of Running Gibbs Sampler
+##	Results of Running Gibbs Sampler	##
 ![alt text](screenshots/RunScreen.png "Example of screen after running Gibbs Sampler on a file with desired parameters")
